@@ -9,4 +9,4 @@
 🎨 Occasionally styling things with Tailwind, React & Next.js  
 🎧 Debugging to lo-fi beats, deploying with caffeine
 
-> I design systems that survive traffic spikes, bad data, and Monday mornings.
+> My backend doesn’t blink—no matter the load, the payload, or the day of the week.
