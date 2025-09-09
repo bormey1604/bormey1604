@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi there, I'm Bormey
 
-<!--
-**bormey1604/bormey1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Backend Developer @ Bank  
+🔧 I build scalable systems with Java + Spring Boot  
+🐳 Containerized with Docker, orchestrated by Kubernetes  
+⚡ Redis for caching, Kafka/ActiveMQ for messaging  
+🚀 CI/CD with Jenkins & Git Workflow  
+🧠 Comfortable with SQL (PostgreSQL, MS SQL) & NoSQL (MongoDB) 
+🎨 Occasionally styling things with Tailwind, React & Next.js  
+🎧 Debugging to lo-fi beats, deploying with caffeine
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I design systems that survive traffic spikes, bad data, and Monday mornings.
